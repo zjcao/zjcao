@@ -1,7 +1,17 @@
-## Hi there 👋
+# Zongjing Cao
+
+> 
+> Personal Academic homepage: [https://zjcao.github.io/](https://zjcao.github.io/)
+> 更多信息可访问：[https://zjcao.github.io/](https://zjcao.github.io/)
+
+📫 Email: zjcao at hnust dot edu dot cn
+
+## About Me
+
+Hi! 👋 I am a lecturer at **Hunan University of Science and Technology**. My research interests include computer vision, machine learning, pattern recognition, visual reasoning, vision-and-language, and uncertainty estimation for deep neural networks.
 
 
----
+<!--
 **zjcao/zjcao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!--
 -->
----
+
