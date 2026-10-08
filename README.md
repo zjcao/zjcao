@@ -9,7 +9,7 @@
 
 Hi! 👋 I am a lecturer at **Hunan University of Science and Technology**. 
 
-My research interests include computer vision, machine learning, pattern recognition, visual reasoning, vision-and-language, and uncertainty estimation for deep neural networks.
+My research interests include computer vision, machine learning, visual reasoning, vision-and-language.
 
 
 <!--
