@@ -16,11 +16,7 @@
 > 
 > Personal academic homepage/更多信息可访问: zjcao.github.io
 
-<p align="left">
-<a href="https://zjcao.github.io/"><img src="https://img.shields.io/badge/Homepage-Visit-blue?style=flat-square"></a>
-<a href="mailto:zjcao@hnust.edu.cn"><img src="https://img.shields.io/badge/Email-zjcao@hnust.edu.cn-green?style=flat-square"></a>
-<a href="https://github.com/zjcao"><img src="https://img.shields.io/badge/GitHub-zjcao-black?style=flat-square"></a>
-</p>
+
 
 
 
@@ -28,6 +24,13 @@
 Hi! 👋 I am a lecturer at **Hunan University of Science and Technology**. 
 
 My research interests include computer vision, machine learning, visual reasoning, vision-language models.
+
+
+<p align="left">
+<a href="https://zjcao.github.io/"><img src="https://img.shields.io/badge/Homepage-Visit-blue?style=flat-square"></a>
+<a href="mailto:zjcao@hnust.edu.cn"><img src="https://img.shields.io/badge/Email-zjcao@hnust.edu.cn-green?style=flat-square"></a>
+<a href="https://github.com/zjcao"><img src="https://img.shields.io/badge/GitHub-zjcao-black?style=flat-square"></a>
+</p>
 -->
 
 
