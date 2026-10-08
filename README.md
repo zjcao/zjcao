@@ -1,13 +1,11 @@
 # Zongjing Cao
 
-> 
-> Personal Academic homepage/更多信息可访问: [https://zjcao.github.io/](https://zjcao.github.io/)
-
 📫 Email: zjcao at hnust dot edu dot cn
 
 ## About Me
 
-;
+> 
+> Personal Academic homepage/更多信息可访问: [https://zjcao.github.io/](https://zjcao.github.io/)
 
 <!--
 Hi! 👋 I am a lecturer at **Hunan University of Science and Technology**. 
