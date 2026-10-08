@@ -5,7 +5,7 @@
 ## About Me
 
 > 
-> Personal academic homepage/更多信息可访问: [https://zjcao.github.io/](https://zjcao.github.io/)
+> Personal academic homepage/更多信息可访问: zjcao.github.io
 
 <!--
 Hi! 👋 I am a lecturer at **Hunan University of Science and Technology**. 
